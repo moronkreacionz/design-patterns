@@ -1,0 +1,3 @@
+dp.singletonpattern.choclateegmultithreadedv5.DPSingletonPatternChoclateEgMultiThreadedV5
+dp.singletonpattern.choclateegmultithreadedv5.WorkHershey
+dp.singletonpattern.choclateegmultithreadedv5.WorkCadbury
